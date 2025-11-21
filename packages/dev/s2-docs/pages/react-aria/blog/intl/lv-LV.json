@@ -1,7 +1,7 @@
 {
   "colorFormat": "Krāsu formāts",
-  "hex": "Hex",
-  "hsb": "HSB",
-  "hsl": "HSL",
-  "rgb": "RGB"
+  "hex": "Hex (hexadecimāla RGB vērtību attēlošana)",
+  "hsb": "HSB (tons, piesātinājums, spilgtums)",
+  "hsl": "HSL (tons, piesātinājums, gaismas līmenis)",
+  "rgb": "RGB (sarkans, zaļš, zils)"
 }
